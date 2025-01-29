@@ -15,7 +15,8 @@ Multimodal Pets is an interactive pet simulation game where players can control 
 - Modality Fission: The game intelligently resolves conflicting commands and provides user feedback for smoother interaction.
 
 
-
+## 🎥 Gameplay Demo
+[![Watch the Video](https://drive.google.com/file/d/1F4AuCsPxCdahxu2QgKhcaoWgZdSpf4an/view)](https://drive.google.com/file/d/1F4AuCsPxCdahxu2QgKhcaoWgZdSpf4an/view)
 
 
 
