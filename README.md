@@ -16,13 +16,15 @@ Multimodal Pets is an interactive pet simulation game where players can control 
 
 
 ## 🎥 Gameplay Demo
-[![Watch the Video](https://drive.google.com/file/d/1F4AuCsPxCdahxu2QgKhcaoWgZdSpf4an/view)](https://drive.google.com/file/d/1F4AuCsPxCdahxu2QgKhcaoWgZdSpf4an/view)
+![gameplaygif](https://github.com/user-attachments/assets/24023675-bcc2-4297-b9ae-d4cf0e5e108a)
+
+[![Watch the Presentation + Gameplay!](https://drive.google.com/file/d/1F4AuCsPxCdahxu2QgKhcaoWgZdSpf4an/view)](https://drive.google.com/file/d/1F4AuCsPxCdahxu2QgKhcaoWgZdSpf4an/view)
 
 
 
-### 👥 Team
+## 👥 Team
 
-Made by MMI-Group 12:
+### Made by MMI-Group 12:
 
 Tanem Basaraner (Developer)
 
